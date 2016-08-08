@@ -1,1 +1,5 @@
-.idea/*
+.idea/
+.sass-cache/
+.versions/
+coverage/
+dist/
